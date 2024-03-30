@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-    printf("I like pizza!\n")
-    return 0
+    printf("I \tlike pizza!\n");
+    return 0;
 }

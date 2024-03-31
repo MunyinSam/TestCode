@@ -14,7 +14,7 @@ int main(){
     printf("You are  %d noob\n", x);
     printf("Hello %s\n",name);
     printf("%c", grade);
-    printf("%f", )
+    printf("%f", gpa);
 
 
     printf("I \tlike pizza!\n");
